@@ -1,0 +1,4 @@
+pyannote.audio
+seaborn
+tqdm
+easydict
